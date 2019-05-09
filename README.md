@@ -7,7 +7,6 @@ A simple Python implementation of Chatbot UI for Web Service.
 
 ## Usage
 <center><img src="img/example.png"></center>
-<center>Fig 1：Example</center>
 
 One could freely customize your response generation in app.py, such as a rule-based chatbot, a generative or retrieval chatbot, all up to you.
 
